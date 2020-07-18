@@ -1,5 +1,5 @@
 public class summation {
-	public static void main(String[] args) {
+	public static void main(test1[] args) {
 		int input=10;
 		int finalResult=summation(input);
 		System.out.println(finalResult);
